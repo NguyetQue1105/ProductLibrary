@@ -1,0 +1,5 @@
+D:\CN\PRN292\HOME\Assignment_3\ProductLibrary\bin\Debug\ProductLibrary.dll
+D:\CN\PRN292\HOME\Assignment_3\ProductLibrary\bin\Debug\ProductLibrary.pdb
+D:\CN\PRN292\HOME\Assignment_3\ProductLibrary\obj\Debug\ProductLibrary.csproj.CoreCompileInputs.cache
+D:\CN\PRN292\HOME\Assignment_3\ProductLibrary\obj\Debug\ProductLibrary.dll
+D:\CN\PRN292\HOME\Assignment_3\ProductLibrary\obj\Debug\ProductLibrary.pdb

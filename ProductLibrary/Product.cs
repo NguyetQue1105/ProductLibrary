@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ProductLibrary
+{
+    public class Product
+    {
+        public int ProductID { get; set; }
+        public string ProductName { get; set; }
+        public int Quantity { get; set; }
+        public float UnitPrice { get; set; }
+        public Product()
+        {
+            ProductID = 0;
+            ProductName = "";
+            Quantity = 0;
+            UnitPrice = 0;
+        }
+        public Product( int ProductID, string ProductName, float UnitPrice, int Quantity)
+        {
+            this.ProductID = ProductID;
+            this.ProductName = ProductName;
+            this.Quantity = Quantity;
+            this.UnitPrice = UnitPrice;
+        }
+        public float SubTotal => UnitPrice * Quantity;
+    }
+}

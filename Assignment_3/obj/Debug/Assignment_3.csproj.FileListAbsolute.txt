@@ -1,0 +1,15 @@
+D:\CN\PRN292\HOME\Assignment_3\Assignment_3\bin\Debug\Assignment_3.exe.config
+D:\CN\PRN292\HOME\Assignment_3\Assignment_3\bin\Debug\Assignment_3.exe
+D:\CN\PRN292\HOME\Assignment_3\Assignment_3\bin\Debug\Assignment_3.pdb
+D:\CN\PRN292\HOME\Assignment_3\Assignment_3\bin\Debug\ProductLibrary.dll
+D:\CN\PRN292\HOME\Assignment_3\Assignment_3\bin\Debug\ProductLibrary.pdb
+D:\CN\PRN292\HOME\Assignment_3\Assignment_3\obj\Debug\Assignment_3.csprojAssemblyReference.cache
+D:\CN\PRN292\HOME\Assignment_3\Assignment_3\obj\Debug\Assignment_3.frmMain.resources
+D:\CN\PRN292\HOME\Assignment_3\Assignment_3\obj\Debug\Assignment_3.frmProductDetail.resources
+D:\CN\PRN292\HOME\Assignment_3\Assignment_3\obj\Debug\Assignment_3.Properties.Resources.resources
+D:\CN\PRN292\HOME\Assignment_3\Assignment_3\obj\Debug\Assignment_3.csproj.GenerateResource.cache
+D:\CN\PRN292\HOME\Assignment_3\Assignment_3\obj\Debug\Assignment_3.csproj.CoreCompileInputs.cache
+D:\CN\PRN292\HOME\Assignment_3\Assignment_3\obj\Debug\Assignment_3.csproj.CopyComplete
+D:\CN\PRN292\HOME\Assignment_3\Assignment_3\obj\Debug\Assignment_3.exe
+D:\CN\PRN292\HOME\Assignment_3\Assignment_3\obj\Debug\Assignment_3.pdb
+D:\CN\PRN292\HOME\Assignment_3\Assignment_3\obj\Debug\Assignment_3.frmSearchDetail.resources
